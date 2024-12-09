@@ -47,10 +47,12 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | Hi! I am a bilingual data scientist with 4 years of experience at
-BNP Paribas and Bosch, where I have developed strong analytical and problem-solving skills. Graduated with honors from an international
-double Master in Data science by the European Institute of Innovation and Technology in France and Italy. I am passionate about
-data,intrapreneurship, and social impact , that is why I have directed a non-profit AI course in Madrid, teaching and mentoring over 100 students and supervising 10 social impact AI projects and founded a university entrepreneurship association. 
+about_content: | 
+
+Hi! I am a bilingual data scientist with 4 years of experience at BNP Paribas and Bosch, where I have developed strong analytical and problem-solving skills. 
+
+Graduated with honors from an international double Master in Data science by the European Institute of Innovation and Technology in France and Italy. 
+
 Looking for new opportunities in data science and data project management.
 
   I am most skilled in: <mark>ML</mark> and <mark>NLP</mark>
