@@ -59,21 +59,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Tourism in Trento Knowledge Grpah
+        link: github.com/mbueno-g/KGE---Tourism-in-Trento
+        # link_text: Project Website
+        quote: >
+          Creating an ontology and teleology for all tourism related concepts in Trentino, Italy 
+        description: | # this will include new lines to allow paragraphs
+          The Trentino region of Italy is incredibly rich in natural landscapes, with 3992 named mountains, 297 lakes and countless beautiful hikes throughout. As international students visiting the region for 6 months and excited to explore, the amount of information and variety of sources to learn about natural tourism was overwhelming. We did not know what points of interest could be accesible without car, and we were concerned doing very complex hikes that could be dangerous for begginers.
+          To help ourselves and future visitors, we will focus on developing a knowledge graph, which will function as a tool for connecting all neccesary natural tourism information in Trentino. In this project, we followed the iTelos methodology that aims for maximum flexibility in reusing both data and schemas. This goal is achieved by independently developing the data level and the schema level of an application.
+      - layout: top-middle
+        title: SOMVRA ![alt text](images/somvra.png)
+        link: github.com/luciatrillo/somvra
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Pitch
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://www.youtube.com/watch?v=e6AI74VsHeg
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Mapping Madrid's shadows using the catastral map + azimuth calculations to help determine the best path for a solar vehicle
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This was my first project dealing with coordinate data and complex visualizations.
 
+
+
+          https://github.com/mbueno-g/KGE---Tourism-in-Trento
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -102,33 +115,46 @@ content:
           - Created and managed training programs for risk and data science teams, focusing on digital innovation and operational excellence ( trained 3 new interns and 7+ international professionals)
           - Promoted an inclusive team culture by organizing cross-functional workshops that aligned the teams with broader organizational goals (BEE project)
 
-    
+
+      - layout: left
+        title: Saturdays AI
+        link: https://saturdays.ai/en/learn-ai-build-projects-english/
+        # link_text: boringcompany.com
+        sub_title: Madrid Director
+        caption: September 2020 - July 2022
+        description: | # this will include new lines to allow paragraphs
+          - Direction and design of the syllabus for Machine Learning and Deep Learning tracks
+          - NLP teacher, Head mentor of more than 10+ IA open source projects
+          - Created and supervised content creators for our e-learning app
+          - Designed and led entrepreneurial AI and innovation training programs, fostering a collaborative and inclusive culture
+          - Managed a diverse team of 20+ volunteers and ensured alignment with broader social impact and learning goals.
+          - Administrated venue, 10k budget, catering, speakers and sponsors
+              
     
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        title: Universita di Trento (Italy)
+        caption: 2022 - 2024
+        sub_title: Master Data Science
+        - title: Education # Title for the section
+      - layout: left
+        title: Université Cote d' Azur (France)
+        caption: 2022 - 2024
+        sub_title: Master Data Science
+      - layout: left
+        title: Universidad rey Juan Carlos (Spain)
+        caption: 2016 - 2020
+        sub_title: Service Science, Management and Engineering bachelor degree
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in AI, some of my other interests and hobbies are:
+      - Attending tech conferences and meetups
+      - Hosting events
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
