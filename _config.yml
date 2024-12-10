@@ -25,7 +25,7 @@ github_username:  luciatrillo
 linkedin_username: luciatrillocarreras
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -50,6 +50,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am a bilingual data scientist with 4 years of experience at BNP Paribas and Bosch, graduated with honors in France and Italy. 
   I am passionate about data,intrapreneurship, and social impact, that is why I have directed a non-profit AI course in Madrid,mentoring over 100 students.
+  
   I am most skilled in: <mark>ML</mark> and <mark>NLP</mark>
 
 content:
@@ -64,9 +65,9 @@ content:
           Creating an ontology and teleology for all tourism related concepts in Trentino, Italy 
         description: | # this will include new lines to allow paragraphs
           The Trentino region of Italy is incredibly rich in natural landscapes, with 3992 named mountains, 297 lakes and countless beautiful hikes throughout. As international students visiting the region for 6 months and excited to explore, the amount of information and variety of sources to learn about natural tourism was overwhelming. We did not know what points of interest could be accesible without car, and we were concerned doing very complex hikes that could be dangerous for begginers.
-          To help ourselves and future visitors, we will focus on developing a knowledge graph, which will function as a tool for connecting all neccesary natural tourism information in Trentino. In this project, we followed the iTelos methodology that aims for maximum flexibility in reusing both data and schemas. This goal is achieved by independently developing the data level and the schema level of an application.
+          
       - layout: top-middle
-        title: SOMVRA ![alt text](images/somvrapitch.jpeg)
+        title: SOMVRA 
         link: github.com/luciatrillo/somvra
         # link_text: Project Website
         additional_links:
