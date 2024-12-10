@@ -124,7 +124,6 @@ content:
           - Managed a diverse team of 20+ volunteers and ensured alignment with broader social impact and learning goals.
           - Administrated venue, 10k budget, catering, speakers and sponsors
               
-    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -132,9 +131,8 @@ content:
         title: Universita di Trento (Italy)
         caption: 2022 - 2024
         sub_title: Master Data Science
-        - title: Education # Title for the section
       - layout: left
-        title: Université Cote d' Azur (France)
+        title: Université Cote d Azur (France)
         caption: 2022 - 2024
         sub_title: Master Data Science
       - layout: left
